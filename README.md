@@ -1,7 +1,9 @@
-# Kager House
+# Hunter House 26
 
-Interactive architectural exterior viewer built with Three.js and Vite.
+A developer presentation of contemporary Fachwerk-inspired timber architecture.
 
-Site: https://kost4d.github.io/kager-house-viewer/
+Home: https://kost4d.github.io/kager-house-viewer/
 
-This repository contains the static production site and the supplied house export. Original modelling files are not included.
+3D viewer: https://kost4d.github.io/kager-house-viewer/viewer.html
+
+Built with Three.js and Vite. The model, illustrations and interface form a concept presentation; final specifications are to be confirmed. Original modelling files are not included.
